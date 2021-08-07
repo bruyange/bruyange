@@ -1,13 +1,12 @@
-### Hi there 👋, Bienvenu Ruyange
-
 ![Design and Development](https://pbs.twimg.com/profile_banners/1423971067450826755/1628347563/600x200)
 
-I am Bienvenu Ruyange from DR Congo, and I make make contents on design and development.I really enjoy learning programming languages like Typescript, Go and frameworks like React and Reack Native, as well as work in WordPess, Joomla and Wix.
+# Hi there 👋, Bienvenu Ruyange
+I am Bienvenu Ruyange, and I make make contents on design and development.I really enjoy learning programming languages like Typescript, Go and frameworks like React and Reack Native, as well as work in WordPess, Joomla and Wix.
 
-#### Skills and Experience
-* React
-* React Native
-* HTML/ CSS/ JS
+## Skills and Experience
+* ⚛️ React
+* 📱 React Native
+* 🖥️ HTML/ CSS/ JS
 
 - 🔭 I’m currently working on Blockchain Mining Platform 
 - 🌱 I’m currently learning Go and Rust 
