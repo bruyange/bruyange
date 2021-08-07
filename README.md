@@ -1,6 +1,6 @@
 ### Hi there 👋, Bienvenu Ruyange
 #### Design and Development
-![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQFTzI3NEiv-qg/profile-displaybackgroundimage-shrink_200_800/0/1610453340522?e=1633564800&v=beta&t=vuNNFtLWeSVeogsX63A3HxPUbsh-1EMXy1SHIKq-_Rg)
+![Design and Development](https://pbs.twimg.com/profile_banners/1423971067450826755/1628347563/600x200)
 
 I am Bienvenu Ruyange from DR Congo, and I make make contents on design and development.I really enjoy learning programming languages like Typescript, Go and frameworks like React and Reack Native, as well as work in WordPess, Joomla and Wix.
 
@@ -11,7 +11,6 @@ Skills: GO/ JS / REACT / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bruyange)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bienvenu Ruyange/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BZRuyange)  
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruyange&show_icons=true&theme=tokyonight)
