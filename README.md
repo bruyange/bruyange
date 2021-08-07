@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Bienvenu Ruyange from DR Congo, and I make make contents on design and development.I really enjoy learning programming languages like Typescript, Go and frameworks like React and Reack Native, as well as work in WordPess, Joomla and Wix.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruyange)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruyange&count_private=true)
 
 
