@@ -9,7 +9,7 @@ I am Bienvenu Ruyange from DR Congo, and I make make contents on design and deve
 * React Native
 * HTML/ CSS/ JS
 
-- 🔭 I’m currently working on Artisanal Small Scale Mining Platform 
+- 🔭 I’m currently working on Blockchain Mining Platform 
 - 🌱 I’m currently learning Go and Rust 
 
 
