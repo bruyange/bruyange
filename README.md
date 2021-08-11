@@ -19,7 +19,7 @@ I am Bienvenu Ruyange, and I do Web design, Mobile and Web development.I really 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruyange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@bruyange/5376e78b-6247-4872-abf2-d6c09edfa95c.svg"></embed></figure>
+[![bruyange's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bruyange)](https://wakatime.com/share/@bruyange/5376e78b-6247-4872-abf2-d6c09edfa95c.svg)
 
 
 
