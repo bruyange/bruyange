@@ -9,7 +9,7 @@ I am Bienvenu Ruyange, and I do Web design, Mobile and Web development.I really 
 * 🖥️ HTML/ CSS/ JS
 
 - 🔭 I’m currently working on Blockchain Mining Platform 
-- 🌱 I’m currently learning Go and Rust 
+- 🌱 I’m currently learning Golang
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bruyange)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bienvenu Ruyange/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BZRuyange)  
