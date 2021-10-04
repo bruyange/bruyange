@@ -1,5 +1,3 @@
-![Design and Development](https://pbs.twimg.com/profile_banners/1423971067450826755/1628347563/600x200)
-
 # Hi there 👋, Bienvenu Ruyange
 I am Bienvenu Ruyange, and I do Web design, Mobile and Web development.I really enjoy learning programming languages like Typescript, Go and frameworks like React and Reack Native, as well as work in WordPess, Joomla and Wix.
 
