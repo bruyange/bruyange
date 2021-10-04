@@ -12,7 +12,8 @@ I am Bienvenu Ruyange, and I do Web design, Mobile and Web development.I really 
 - 🌱 I’m currently learning Golang
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bruyange)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bienvenu Ruyange/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BZRuyange)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bruyange)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/b_ruyange)  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruyange&show_icons=true&theme=tokyonight)
