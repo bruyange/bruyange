@@ -8,6 +8,19 @@ I am Zaneza, and I do Web design, Mobile and Web development.I really enjoy lear
 
 - 🌱 I’m currently learning Rust
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/bienvenu-ruyange-345168114/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/b_ruyange">    
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=bruyange&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruyange&layout=compact)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/b_ruyange)  
 
 
