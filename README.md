@@ -1,5 +1,5 @@
-# Hi there 👋, Bienvenu Ruyange
-I am Bienvenu Ruyange, and I do Web design, Mobile and Web development.I really enjoy learning programming languages like Typescript, Go and frameworks like React and Reack Native, as well as work in WordPess, Joomla and Wix.
+# Hi there 👋, Zaneza
+I am Zaneza, and I do Web design, Mobile and Web development.I really enjoy learning programming languages like Typescript, Go and frameworks like React and Reack Native, as well as work in WordPess, Joomla and Wix.
 
 ## Skills and Experience
 * ⚛️ React
