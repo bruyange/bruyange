@@ -12,9 +12,9 @@ I am Bienvenu Ruyange, and I do Web design, Mobile and Web development.I really 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/b_ruyange)  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruyange&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b_ruyange&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruyange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b_ruyange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
