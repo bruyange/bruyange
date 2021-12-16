@@ -25,8 +25,6 @@ I am Zaneza, and I do Web design, Mobile and Web development.I really enjoy lear
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruyange&layout=compact)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/b_ruyange)  
-
 
 <!--
 **bruyange/bruyange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
