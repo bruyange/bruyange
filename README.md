@@ -6,9 +6,8 @@ I am Zaneza, and I do Web design, Mobile and Web development.I really enjoy lear
 * 📱 React Native
 * 🖥️ HTML/ CSS/ JS
 
-- 🌱 I’m currently learning Rust
-
 <p align='center'>
+  🌱 I’m currently learning Rust
   📫 Get in touch: <a href='mailto:bienvenuruyange@gmail.com'>bienvenuruyange@gmail.com</a>
 </p>
 
