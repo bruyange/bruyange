@@ -9,7 +9,7 @@ I am Zaneza, and I do Web design, Mobile and Web development.I really enjoy lear
 * Additionnal skills: C# and PHP
 
 <p align='center'>
-  🌱 I’m currently learning Rust
+  🌱 I’m currently learning Golang
 </p>
 <p align='center'>
   📫 Get in touch: <a href='mailto:bienvenuruyange@gmail.com'>bienvenuruyange@gmail.com</a>
