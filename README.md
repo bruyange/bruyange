@@ -1,5 +1,5 @@
 # Hi there 👋, Zaneza
-I am Zaneza, and I do Web design, Mobile and Web development.I really enjoy learning programming languages like Go, Rust and frameworks like React and Reack Native, as well as work in WordPress, Drupal, Joomla and Wix.
+I am Zaneza, and I do Web design, Mobile and Web development.I really enjoy learning programming languages like Go, Rust and work with frameworks like React and Reack Native, as well as CMS like WordPress, Drupal, Joomla and Wix.
 
 ## Skills and Experience
 * ⚛️ React
