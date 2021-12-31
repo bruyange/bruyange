@@ -6,7 +6,7 @@ I am Zaneza, and I do Web design, Mobile and Web development.I really enjoy lear
 * 📱 React Native
 * 💻 Electron
 * 🖥️ HTML/ CSS/ SASS/ JS/TS /NodeJS
-* Additionnal skills: C# and PHP
+* Additionnal skills: VB.Net, C# and PHP
 
 <p align='center'>
   🌱 I’m currently learning Golang
