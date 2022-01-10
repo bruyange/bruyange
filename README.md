@@ -24,8 +24,6 @@ I am Zaneza, and I do Software design, Mobile and Web development.I really enjoy
   </a>&nbsp;&nbsp;  
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=bruyange&show_icons=true&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruyange&layout=compact)
 
 
