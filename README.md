@@ -8,10 +8,10 @@ I am Zaneza, and I do Software design, Mobile and Web development.I really enjoy
 * 🖥️ HTML/ CSS/ SASS/ JS/TS /NodeJS
 * Additionnal skills: Python, C++ and Golang.
 
-<p align='center'>
+<p align='right'>
   🌱 I’m currently learning Rust
 </p>
-<p align='center'>
+<p align='right'>
   📫 Get in touch: <a href='mailto:bienvenuruyange@gmail.com'>bienvenuruyange@gmail.com</a>
 </p>
 
