@@ -1,15 +1,13 @@
 # Hi there 👋, Zaneza
-I am Zaneza, and I do Software design, Mobile and Web development.I really enjoy learning programming languages like Go, Rust and work with frameworks like Electron, React and Reack Native, as well as CMS like WordPress, Drupal, Joomla and Wix.
+I am Zaneza, and I do Software design, Mobile and Web development.I really enjoy learning programming languages like Go, Rust and work with frameworks like Electron, React and Reack Native, as well as CMS like WordPress, Drupal, Joomla, Wix, Shopify and Magento.
 
 ## Skills and Experience
 * ⚛️ React
 * 📱 React Native
 * 💻 Electron
 * 🖥️ HTML/ CSS/ SASS/ JS/TS /NodeJS
-* Additionnal skills: Python, C++ and Golang.
+* Additionnal skills: PHP, Python, C++, Golang and Rust.
 
-<p align='left'>
-  🌱 I’m currently learning Rust
 </p>
 <p align='left'>
   📫 Get in touch: <a href='mailto:bienvenuruyange@gmail.com'>bienvenuruyange@gmail.com</a>
