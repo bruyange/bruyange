@@ -1,5 +1,5 @@
 # Hi there 👋, Zaneza
-I am Zaneza, and I do Software design, Mobile and Web development.I really enjoy learning programming languages like Go, Rust and work with frameworks like Electron, React and Reack Native, as well as CMS like WordPress, Drupal, Joomla, Wix, Shopify and Magento.
+I am Zaneza, and I do Software design, Mobile and Web development.I really enjoy working with frameworks like Electron, React and Reack Native, as well as CMS like WordPress, Drupal, Joomla, Wix, Shopify and Magento.
 
 ## Skills and Experience
 * ⚛️ React
