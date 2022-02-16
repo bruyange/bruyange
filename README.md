@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Zaneza Ruyange
+# Hi there 👋, I'm Zaneza Ruyange
 I do Software design, Mobile and Web development.I really enjoy working with frameworks like Electron, React and React Native, as well as CMS like WordPress, Drupal, Joomla, Wix, Shopify and Magento.
 
 ## Skills and Experience
