@@ -17,7 +17,7 @@ I am Zaneza, and I do Software design, Mobile and Web development.I really enjoy
   <a href="https://www.linkedin.com/in/bienvenu-ruyange-345168114/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/b_ruyange">    
+  <a href="https://twitter.com/zane_ruy">    
     <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;  
 </p>
